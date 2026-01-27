@@ -4,7 +4,7 @@ Winning a customer is hard; keeping them is harder. In the hyper-competitive tel
 
 This project is a mid-level, production-ready pipeline designed to ingest, process, and analyze customer behavior to predict and mitigate churn. It transitions from raw data to a cloud-based SQL infrastructure, concluding with automated insights and machine learning.
 
-##🛠️ The Tech Stack
+##The Tech Stack 🛠️
 * Language: Python 3.x
 
 *Data ingestion: Kaggle API (Automated)
@@ -19,7 +19,7 @@ This project is a mid-level, production-ready pipeline designed to ingest, proce
 
 * Environment: Google Colab & GitHub (Version Control)
 
-##🏗️ Project Architecture
+##Project architecture 🏗️
 The pipeline is built on four robust pillars:
 1. Automated data ingestion: Direct retrieval from Kaggle's API into a structured environment, ensuring data freshness and reproducibility.
 
@@ -29,7 +29,7 @@ The pipeline is built on four robust pillars:
 
 4. Automated EDA: Generation of comprehensive, interactive HTML reports to identify key churn drivers like contract types, payment methods, and tenure correlations.
 
-📈 Key insights (Ongoing)
+# Key insights (Ongoing) 📈 
 
 * Coming soon: Identification of top 3 churn risk factors.
 
