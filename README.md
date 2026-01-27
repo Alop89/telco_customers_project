@@ -1,4 +1,4 @@
-# 🚀 ChurnGuard: End-to-End Data Engineering & Predictive Pipeline
+# 🚀 ChurnGuard: End-to-End data engineering & predictive pipeline
 
 Winning a customer is hard; keeping them is harder. In the hyper-competitive telecom industry, customer attrition (churn) is the ultimate metric for success.
 
